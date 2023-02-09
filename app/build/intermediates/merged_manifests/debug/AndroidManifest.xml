@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="eu.quiz.quizapp"
+    package="kush.quiz.quizapp"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -19,16 +19,16 @@
         android:testOnly="true"
         android:theme="@style/Theme.QuizApp" >
         <activity
-            android:name="eu.quiz.quizapp.ResultActivity"
+            android:name="kush.quiz.quizapp.ResultActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/NoactionBar" />
         <activity
-            android:name="eu.quiz.quizapp.QuizQuestionsActivity"
+            android:name="kush.quiz.quizapp.QuizQuestionsActivity"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name="eu.quiz.quizapp.MainActivity"
+            android:name="kush.quiz.quizapp.MainActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/NoactionBar" >

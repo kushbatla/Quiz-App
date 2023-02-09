@@ -1,4 +1,4 @@
-package eu.quiz.quizapp
+package kush.quiz.quizapp
 
 import org.junit.Test
 

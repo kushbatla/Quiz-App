@@ -1,4 +1,4 @@
-package eu.quiz.quizapp
+package kush.quiz.quizapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

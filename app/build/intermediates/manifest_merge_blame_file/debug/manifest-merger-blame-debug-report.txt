@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="eu.quiz.quizapp"
+3    package="kush.quiz.quizapp"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -30,8 +30,8 @@
 20-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:11:9-45
 21        <activity
 21-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:12:9-16:39
-22            android:name="eu.quiz.quizapp.ResultActivity"
-22-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:13:13-58
+22            android:name="kush.quiz.quizapp.ResultActivity"
+22-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:13:13-60
 23            android:exported="true"
 23-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:16:13-36
 24            android:screenOrientation="portrait"
@@ -40,16 +40,16 @@
 25-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:15:13-47
 26        <activity
 26-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:17:9-20:52
-27            android:name="eu.quiz.quizapp.QuizQuestionsActivity"
-27-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:18:13-65
+27            android:name="kush.quiz.quizapp.QuizQuestionsActivity"
+27-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:18:13-67
 28            android:exported="true"
 28-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:19:13-36
 29            android:screenOrientation="portrait" />
 29-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:20:13-49
 30        <activity
 30-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:21:9-31:20
-31            android:name="eu.quiz.quizapp.MainActivity"
-31-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:22:13-56
+31            android:name="kush.quiz.quizapp.MainActivity"
+31-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:22:13-58
 32            android:exported="true"
 32-->C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:23:13-36
 33            android:screenOrientation="portrait"

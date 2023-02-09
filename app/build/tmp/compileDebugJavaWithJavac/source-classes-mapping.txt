@@ -1,2 +1,2 @@
-eu/quiz/quizapp/BuildConfig.java
- eu.quiz.quizapp.BuildConfig
+kush/quiz/quizapp/BuildConfig.java
+ kush.quiz.quizapp.BuildConfig

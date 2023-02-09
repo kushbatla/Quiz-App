@@ -44,7 +44,7 @@ INJECTED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManif
 INJECTED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:3:5-30
+		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -81,7 +81,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ku
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:11:9-45
-activity#eu.quiz.quizapp.ResultActivity
+activity#kush.quiz.quizapp.ResultActivity
 ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:12:9-16:39
 	android:screenOrientation
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:14:13-49
@@ -90,16 +90,16 @@ ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest
 	android:theme
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:13:13-58
-activity#eu.quiz.quizapp.QuizQuestionsActivity
+		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:13:13-60
+activity#kush.quiz.quizapp.QuizQuestionsActivity
 ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:17:9-20:52
 	android:screenOrientation
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:20:13-49
 	android:exported
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:18:13-65
-activity#eu.quiz.quizapp.MainActivity
+		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:18:13-67
+activity#kush.quiz.quizapp.MainActivity
 ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:21:9-31:20
 	android:screenOrientation
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:24:13-49
@@ -108,7 +108,7 @@ ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest
 	android:theme
 		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:25:13-47
 	android:name
-		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:22:13-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\kush\Desktop\New folder\QuizApp\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
